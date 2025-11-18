@@ -22,8 +22,7 @@ Module 4 extends MiniTorch with convolutional neural network operations to build
 pip install -e ".[dev,extra]"
 
 # Set up MNIST dataset
-pip install python-mnist
-mnist_get_data.sh
+./get_mnist.sh
 
 # Sync files from Module 3
 python sync_previous_module.py ../Module-3 .
