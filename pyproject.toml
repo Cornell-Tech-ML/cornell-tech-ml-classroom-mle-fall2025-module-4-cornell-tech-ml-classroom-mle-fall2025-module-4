@@ -36,7 +36,7 @@ extra = [
     "embeddings==0.0.8",
     "networkx==3.5",
     "pydot==1.4.1",
-    "watchdog==1.0.2",
+    "watchdog",
     "altair==4.2.2",
 ]
 
