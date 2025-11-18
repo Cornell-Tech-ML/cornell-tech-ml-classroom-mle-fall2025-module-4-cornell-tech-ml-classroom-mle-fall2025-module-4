@@ -60,7 +60,7 @@ pre-commit run --all-files
 
 ### Task 4.4: Advanced Neural Network Functions
 **File**: `minitorch/nn.py`
-- Implement `max()`, `softmax()`, `logsoftmax()`, and `dropout()`
+- Implement `max()`, `argmax()`, `softmax()`, `logsoftmax()`, and `dropout()`
 - Implement `maxpool2d()` for max pooling operations
 - Add property tests and ensure gradient computation correctness
 
