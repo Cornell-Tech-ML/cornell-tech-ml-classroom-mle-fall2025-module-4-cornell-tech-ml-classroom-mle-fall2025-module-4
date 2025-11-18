@@ -65,7 +65,7 @@ pre-commit run --all-files
 - Add property tests and ensure gradient computation correctness
 
 ### Task 4.4b: Extra Credit (CUDA Convolution)
-**File**: `minitorch/cuda_conv.py`
+**File**: `minitorch/cuda_conv.py` (Create this file)
 - Implement `conv1d` and `conv2d` on CUDA for efficient GPU processing
 - Critical for large-scale image recognition performance
 - Show output on Google Colab
